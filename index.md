@@ -9,8 +9,6 @@ Here we will constantly post lists of proxy servers useful for testing on softwa
 ## Last Updated:
 1. 04/21/2017
 
-**Bold** and _Italic_ and `Code` text
-
 [https://pr1v7.github.io/misc/proxy-lists/04-21-2017](04/21/2017) and ![Image](src)
 ```
 
