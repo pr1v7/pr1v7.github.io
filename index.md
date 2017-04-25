@@ -8,9 +8,12 @@ Here we will constantly post lists of proxy servers useful for testing on softwa
 # sslproxies.org
 ## Last Updated:
 1. 04/21/2017
-
-[https://pr1v7.github.io/misc/proxy-lists/04-21-2017](04/21/2017) and ![Image](src)
 ```
+[04-21-2017](https://pr1v7.github.io/misc/proxy-list/04-21-2017.md)
+
+
+
+
 
 For more details see [PR1V7 Proxy Servers](https://github.com/pr1v7/proxy-servers) Project.
 
